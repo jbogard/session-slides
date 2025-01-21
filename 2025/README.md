@@ -64,7 +64,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Defining an API Specification: A Step-by-Step Guide
 - [Design Patterns: Not Just for Architects](https://github.com/jeremybytes/learning-design-patterns)
 - Designing Reusable Components…That Are Actually Reusable
-- Domain-Driven Refactoring
+- [Domain-Driven Refactoring](https://github.com/jbogard/presentations/tree/master/DomainDrivenRefactoring)
 - EmpowerHER in Tech: How to be an Effective Ally
 - [Everyone Can Play! Building CTFs To Teach Non-Security Folks](https://github.com/jkuemerle/codemash-2025-ctf)
 - Front=End Testing Framework Panel
@@ -144,7 +144,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Make Your Native iOS Apps Accessible To Everyone
 - Making Predictions Out of Thin Air: Data Science's Ultimate Hack
 - Mind Mechanics: Fine-Tuning Cognitive Function for the Engineering Mind
-- Modularizing the Monolith
+- [Modularizing the Monolith](https://github.com/jbogard/presentations/tree/master/ModularizingTheMonolith)
 - Off-Grid Communication with LoRa and Meshtastic
 - Onboarding and Mentoring: A Surprisingly Winning Combination
 - Owning Your Experience: Talking about Mental Health In the Workplace
